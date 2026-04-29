@@ -1,1 +1,0 @@
-int dividir(int a, int b); 
